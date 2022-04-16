@@ -49,7 +49,10 @@
 <p align="center"> <a href="https://twitter.com/dev_samsul_alam" target="blank"><img  src="https://img.shields.io/twitter/follow/dev_samsul_alam?logo=twitter&style=for-the-badge" alt="dev_samsul_alam" /></a> </p>
 
 <p align="center"><img    src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-samsul-alam&show_icons=true&locale=en&layout=compact" alt="mr-samsul-alam" /></p>
- 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-samsul-alam&show_icons=true&locale=en" alt="mr-samsul-alam" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mr-samsul-alam&" alt="mr-samsul-alam" /></p>
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-samsul-alam&show_icons=true&locale=en" alt="mr-samsul-alam" /></td>
+    <td valign="top"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mr-samsul-alam&" alt="mr-samsul-alam" /></td>
+  </tr>
+</table>
