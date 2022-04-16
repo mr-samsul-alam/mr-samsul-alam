@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-samsul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="mr-samsul-alam" /> </p>
  
-- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
+- 🌱 I’m currently learning : ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC)
 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dev.samsul.alam@gmail.com)
+- 📫 Reach me by email : [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dev.samsul.alam@gmail.com)
 
- 
+### Glad to see you here! :octocat:
+
+> I'm a **Front End Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I have 1 year of experience in Web Design and Development. I live in Dhaka, Bangladesh. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & watch movies during my free time.
+
 ---
 <img align="right" height="250" width="400" alt="Farhan Ahmed Nahid" src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif" />
 
