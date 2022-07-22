@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript) -->
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Router](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
 <!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)  -->
