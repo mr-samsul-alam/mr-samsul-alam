@@ -12,8 +12,9 @@
 
 > I'm a **MERN Stack Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. I have 1 year of experience in Web Design and Development. I live in Dhaka, Bangladesh. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & watch movies during my free time.
 
----
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+--- 
+
+<img align="right" height="250" width="400" alt="Farhan Ahmed Nahid" src="[https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif](https://giphy.com/embed/RbDKaczqWovIugyJmW)" />
 ### 🛠 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
