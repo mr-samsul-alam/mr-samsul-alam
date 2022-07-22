@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-samsul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="mr-samsul-alam" /> </p>
  
 - 🌱 I’m currently learning : ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
-![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC)
 
 - 📫 Reach me by email : [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dev.samsul.alam@gmail.com)
@@ -25,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Router](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
-<!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js) -->
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js) 
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
 <!-- ![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass) -->
