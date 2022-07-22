@@ -14,7 +14,8 @@
 
 --- 
 
-<img align="right" height="250" width="400" alt="Farhan Ahmed Nahid" src="[https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif](https://giphy.com/embed/RbDKaczqWovIugyJmW)" />
+<img align="right" height="250" width="400" alt="Samsul Alam" src="[https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif](https://giphy.com/embed/RbDKaczqWovIugyJmW)" />
+
 ### 🛠 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
