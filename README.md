@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Router](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
-![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js) 
+<!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)  -->
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
 <!-- ![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass) -->
